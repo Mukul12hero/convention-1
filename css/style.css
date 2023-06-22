@@ -1,0 +1,15 @@
+.my-navbar{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.my-nav-item{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* carousel part start */
+
+.my-caro-btn{
+   font-weight: 700;
+}
