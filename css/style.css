@@ -13,3 +13,14 @@
 .my-caro-btn{
    font-weight: 700;
 }
+
+.my-btn{
+    font-weight: 700;
+}
+
+/* priceing part start */
+
+.custom-separator{
+    width: 50px;
+    height: 10px;
+}
